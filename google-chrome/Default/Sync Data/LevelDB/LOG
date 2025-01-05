@@ -1,0 +1,9 @@
+2025/01/05-12:22:58.215 fe5 Reusing MANIFEST /home/ziad/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/01/05-12:22:58.216 fe5 Recovering log #19
+2025/01/05-12:22:58.218 fe5 Reusing old log /home/ziad/.config/google-chrome/Default/Sync Data/LevelDB/000019.log 
+2025/01/05-12:31:44.822 fce Level-0 table #23: started
+2025/01/05-12:31:44.826 fce Level-0 table #23: 91089 bytes OK
+2025/01/05-12:31:44.828 fce Delete type=0 #19
+2025/01/05-15:46:59.072 fcc Level-0 table #25: started
+2025/01/05-15:46:59.078 fcc Level-0 table #25: 94934 bytes OK
+2025/01/05-15:46:59.081 fcc Delete type=0 #22

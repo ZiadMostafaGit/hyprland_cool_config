@@ -1,0 +1,12 @@
+2025/01/05-14:43:11.615 fcc Reusing MANIFEST /home/ziad/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/05-14:43:11.616 fcc Recovering log #10
+2025/01/05-14:43:11.621 fcc Reusing old log /home/ziad/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000010.log 
+2025/01/05-14:45:09.027 fcd Level-0 table #15: started
+2025/01/05-14:45:09.037 fcd Level-0 table #15: 1239247 bytes OK
+2025/01/05-14:45:09.039 fcd Delete type=0 #10
+2025/01/05-14:50:42.823 fcd Compacting 1@1 + 1@2 files
+2025/01/05-14:50:42.828 fcd Generated table #16@1: 389 keys, 76208 bytes
+2025/01/05-14:50:42.828 fcd Compacted 1@1 + 1@2 files => 76208 bytes
+2025/01/05-14:50:42.831 fcd compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/05-14:50:42.831 fcd Delete type=2 #12
+2025/01/05-14:50:42.831 fcd Delete type=2 #15

@@ -1,0 +1,18 @@
+2025/01/04-18:52:41.755 28326 Reusing MANIFEST /home/ziad/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/01/04-18:52:41.756 28326 Recovering log #13
+2025/01/04-18:52:41.756 28326 Reusing old log /home/ziad/.config/google-chrome/Default/Sync Data/LevelDB/000013.log 
+2025/01/04-22:06:37.845 28326 Level-0 table #17: started
+2025/01/04-22:06:37.853 28326 Level-0 table #17: 89835 bytes OK
+2025/01/04-22:06:37.857 28326 Delete type=0 #13
+2025/01/04-22:06:37.858 28327 Compacting 4@0 + 1@1 files
+2025/01/04-22:06:37.864 28327 Generated table #18@0: 93 keys, 18170 bytes
+2025/01/04-22:06:37.864 28327 Compacted 4@0 + 1@1 files => 18170 bytes
+2025/01/04-22:06:37.867 28327 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/04-22:06:37.868 28327 Delete type=2 #7
+2025/01/04-22:06:37.868 28327 Delete type=2 #9
+2025/01/04-22:06:37.868 28327 Delete type=2 #11
+2025/01/04-22:06:37.868 28327 Delete type=2 #14
+2025/01/04-22:06:37.868 28327 Delete type=2 #17
+2025/01/05-00:40:32.460 28326 Level-0 table #20: started
+2025/01/05-00:40:32.465 28326 Level-0 table #20: 78549 bytes OK
+2025/01/05-00:40:32.472 28326 Delete type=0 #16

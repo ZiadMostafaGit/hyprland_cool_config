@@ -1,0 +1,46 @@
+{
+  "editor.fontFamily": "'Rubik', 'Rubik-Black', monospace",
+  "editor.tabSize": 2,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.minimap.enabled": false,
+  "git.ignoreMissingGitWarning": true,
+  "editor.occurrencesHighlight": "off",
+  "editor.selectionHighlight": false,
+
+  // Enable suggestions on trigger characters (e.g. ".", "(", etc.)
+  "editor.suggestOnTriggerCharacters": true,
+
+  // Enable quick suggestions for code in all languages
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+
+  // Enable tab completion for suggestions
+  "editor.tabCompletion": "on",
+
+  "files.trimTrailingWhitespace": true,
+  "git.confirmSync": false,
+  "window.menuBarVisibility": "compact",
+  "git.autofetch": true,
+  "git.openRepositoryInParentFolders": "always",
+  "explorer.confirmDelete": false,
+  "extensions.ignoreRecommendations": true,
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "window.titleBarStyle": "custom",
+  "git.enableSmartCommit": true,
+
+  // Enable inline suggestion syntax highlighting
+  "editor.inlineSuggest.syntaxHighlightingEnabled": true,
+
+  // Remove C++ specific restrictions
+  "[cpp]": {
+    "editor.wordBasedSuggestions": "matchingDocuments",  // Turn on word-based suggestions for C++
+    "editor.semanticHighlighting.enabled": true,
+    "editor.stickyScroll.defaultModel": "foldingProviderModel",
+    "editor.suggest.insertMode": "replace"
+  },
+  "code-runner.runInTerminal": true,
+  "workbench.iconTheme": "catppuccin-perfect-latte"
+}

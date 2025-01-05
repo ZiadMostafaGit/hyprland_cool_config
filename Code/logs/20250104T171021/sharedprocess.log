@@ -1,0 +1,171 @@
+2025-01-04 17:13:35.812 [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+2025-01-04 17:13:35.812 [info] Getting Manifest... ms-vscode.cmake-tools
+2025-01-04 17:13:35.812 [info] Getting Manifest... formulahendry.code-runner
+2025-01-04 17:13:35.813 [info] Getting Manifest... ms-vscode.cpptools-themes
+2025-01-04 17:13:35.813 [info] Getting Manifest... twxs.cmake
+2025-01-04 17:13:35.813 [info] Getting Manifest... ms-python.debugpy
+2025-01-04 17:13:35.813 [info] Getting Manifest... ms-python.vscode-pylance
+2025-01-04 17:13:35.813 [info] Getting Manifest... ms-vscode.cpptools
+2025-01-04 17:13:35.813 [info] Getting Manifest... ms-python.python
+2025-01-04 17:13:36.208 [info] Installing extension: ms-vscode.cpptools-extension-pack {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"pinned":true,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-04 17:13:36.208 [info] Installing extension: ms-vscode.cpptools-themes {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"pinned":true,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-04 17:13:36.208 [info] Installing extension: ms-vscode.cmake-tools {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"pinned":true,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-04 17:13:36.209 [info] Installing extension: ms-vscode.cpptools {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-04 17:13:36.209 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-04 17:13:36.209 [info] Installing extension: twxs.cmake {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":true,"pinned":true,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-04 17:13:36.209 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-04 17:13:36.209 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-04 17:13:36.209 [info] Installing extension: ms-python.python {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-04 17:13:36.209 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-extension-pack
+2025-01-04 17:13:36.209 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-themes
+2025-01-04 17:13:36.209 [info] Installing the extension without checking dependencies and pack ms-vscode.cmake-tools
+2025-01-04 17:13:36.209 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools
+2025-01-04 17:13:36.209 [info] Installing the extension without checking dependencies and pack formulahendry.code-runner
+2025-01-04 17:13:36.209 [info] Installing the extension without checking dependencies and pack twxs.cmake
+2025-01-04 17:13:36.209 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2025-01-04 17:13:36.209 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2025-01-04 17:13:36.209 [info] Installing the extension without checking dependencies and pack ms-python.python
+2025-01-04 17:13:42.014 [info] Extension signature verification result for formulahendry.code-runner: UnknownError. Executed: true. Duration: 14ms.
+2025-01-04 17:13:42.075 [info] Extracted extension to file:///home/ziad/.vscode/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2025-01-04 17:13:42.081 [info] Renamed to /home/ziad/.vscode/extensions/formulahendry.code-runner-0.12.2
+2025-01-04 17:13:42.170 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-04 17:13:43.751 [info] Extension signature verification result for ms-vscode.cpptools-themes: UnknownError. Executed: true. Duration: 15ms.
+2025-01-04 17:13:43.754 [info] Extension signature verification result for ms-vscode.cmake-tools: UnknownError. Executed: true. Duration: 9ms.
+2025-01-04 17:13:43.783 [info] Extracted extension to file:///home/ziad/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0: ms-vscode.cpptools-themes
+2025-01-04 17:13:43.787 [info] Renamed to /home/ziad/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0
+2025-01-04 17:13:43.866 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-04 17:13:43.897 [info] Extracted extension to file:///home/ziad/.vscode/extensions/ms-vscode.cmake-tools-1.19.52: ms-vscode.cmake-tools
+2025-01-04 17:13:43.908 [info] Renamed to /home/ziad/.vscode/extensions/ms-vscode.cmake-tools-1.19.52
+2025-01-04 17:13:45.992 [info] Getting Manifest... github.copilot
+2025-01-04 17:13:46.002 [info] Extension signature verification result for ms-vscode.cpptools-extension-pack: UnknownError. Executed: true. Duration: 7ms.
+2025-01-04 17:13:46.007 [info] Extracted extension to file:///home/ziad/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.3.0: ms-vscode.cpptools-extension-pack
+2025-01-04 17:13:46.009 [info] Renamed to /home/ziad/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.3.0
+2025-01-04 17:13:46.089 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-04 17:13:49.639 [info] Installing extension: github.copilot {"enable":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-04 17:13:50.502 [info] Getting Manifest... github.copilot-chat
+2025-01-04 17:13:54.031 [info] Installing extension: github.copilot-chat {"enable":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-04 17:13:59.063 [info] Extension signature verification result for twxs.cmake: UnknownError. Executed: true. Duration: 6ms.
+2025-01-04 17:13:59.152 [info] Extracted extension to file:///home/ziad/.vscode/extensions/twxs.cmake-0.0.17: twxs.cmake
+2025-01-04 17:13:59.157 [info] Renamed to /home/ziad/.vscode/extensions/twxs.cmake-0.0.17
+2025-01-04 17:13:59.240 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-04 17:14:20.238 [info] Extension signature verification result for ms-python.debugpy: UnknownError. Executed: true. Duration: 9ms.
+2025-01-04 17:14:20.488 [info] Extracted extension to file:///home/ziad/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64: ms-python.debugpy
+2025-01-04 17:14:20.499 [info] Renamed to /home/ziad/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64
+2025-01-04 17:14:20.584 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-04 17:14:24.544 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2025-01-04 17:14:29.228 [info] Getting Manifest... thang-nm.catppuccin-perfect-icons
+2025-01-04 17:14:32.792 [info] Installing extension: catppuccin.catppuccin-vsc {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-04 17:14:34.226 [info] Installing extension: thang-nm.catppuccin-perfect-icons {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ziad/.vscode/extensions/extensions.json","path":"/home/ziad/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-04 17:14:36.175 [info] Extension signature verification result for ms-python.vscode-pylance: UnknownError. Executed: true. Duration: 6ms.
+2025-01-04 17:14:36.936 [info] Extension signature verification result for ms-python.python: UnknownError. Executed: true. Duration: 6ms.
+2025-01-04 17:14:37.780 [info] Extracted extension to file:///home/ziad/.vscode/extensions/ms-python.python-2024.22.1-linux-x64: ms-python.python
+2025-01-04 17:14:37.839 [info] Renamed to /home/ziad/.vscode/extensions/ms-python.python-2024.22.1-linux-x64
+2025-01-04 17:14:37.923 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-04 17:14:38.296 [info] Extracted extension to file:///home/ziad/.vscode/extensions/ms-python.vscode-pylance-2024.12.1: ms-python.vscode-pylance
+2025-01-04 17:14:38.444 [info] Renamed to /home/ziad/.vscode/extensions/ms-python.vscode-pylance-2024.12.1
+2025-01-04 17:14:38.527 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-04 17:14:41.693 [info] Extension signature verification result for catppuccin.catppuccin-vsc: UnknownError. Executed: true. Duration: 9ms.
+2025-01-04 17:14:41.701 [info] Extracted extension to file:///home/ziad/.vscode/extensions/catppuccin.catppuccin-vsc-3.16.0: catppuccin.catppuccin-vsc
+2025-01-04 17:14:41.703 [info] Renamed to /home/ziad/.vscode/extensions/catppuccin.catppuccin-vsc-3.16.0
+2025-01-04 17:14:41.716 [info] Extension installed successfully: catppuccin.catppuccin-vsc vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:14:41.784 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-04 17:14:48.978 [info] Extension signature verification result for github.copilot-chat: UnknownError. Executed: true. Duration: 7ms.
+2025-01-04 17:14:49.160 [info] Extracted extension to file:///home/ziad/.vscode/extensions/github.copilot-chat-0.23.2: github.copilot-chat
+2025-01-04 17:14:49.168 [info] Renamed to /home/ziad/.vscode/extensions/github.copilot-chat-0.23.2
+2025-01-04 17:14:49.252 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-04 17:14:50.449 [info] Extension signature verification result for thang-nm.catppuccin-perfect-icons: UnknownError. Executed: true. Duration: 6ms.
+2025-01-04 17:14:51.728 [info] Extracted extension to file:///home/ziad/.vscode/extensions/thang-nm.catppuccin-perfect-icons-0.21.32: thang-nm.catppuccin-perfect-icons
+2025-01-04 17:14:51.841 [info] Renamed to /home/ziad/.vscode/extensions/thang-nm.catppuccin-perfect-icons-0.21.32
+2025-01-04 17:14:51.863 [info] Extension installed successfully: thang-nm.catppuccin-perfect-icons vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:14:51.927 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-04 17:15:06.852 [info] Extension signature verification result for github.copilot: UnknownError. Executed: true. Duration: 8ms.
+2025-01-04 17:15:07.142 [info] Extracted extension to file:///home/ziad/.vscode/extensions/github.copilot-1.254.0: github.copilot
+2025-01-04 17:15:07.204 [info] Renamed to /home/ziad/.vscode/extensions/github.copilot-1.254.0
+2025-01-04 17:15:07.224 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:15:07.224 [info] Extension installed successfully: github.copilot vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:15:07.286 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-04 17:15:56.114 [info] Extension signature verification result for ms-vscode.cpptools: UnknownError. Executed: true. Duration: 14ms.
+2025-01-04 17:15:57.626 [info] Extracted extension to file:///home/ziad/.vscode/extensions/ms-vscode.cpptools-1.22.11-linux-x64: ms-vscode.cpptools
+2025-01-04 17:15:57.640 [info] Renamed to /home/ziad/.vscode/extensions/ms-vscode.cpptools-1.22.11-linux-x64
+2025-01-04 17:15:57.667 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:15:57.667 [info] Extension installed successfully: ms-vscode.cpptools-themes vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:15:57.667 [info] Extension installed successfully: ms-vscode.cmake-tools vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:15:57.667 [info] Extension installed successfully: ms-vscode.cpptools-extension-pack vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:15:57.667 [info] Extension installed successfully: twxs.cmake vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:15:57.667 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:15:57.667 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:15:57.667 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:15:57.668 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/ziad/.vscode/extensions/extensions.json
+2025-01-04 17:15:57.726 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/ziad/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

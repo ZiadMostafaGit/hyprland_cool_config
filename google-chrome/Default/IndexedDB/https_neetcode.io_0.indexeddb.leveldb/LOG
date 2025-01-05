@@ -1,0 +1,34 @@
+2025/01/04-17:42:32.869 177fe Creating DB /home/ziad/.config/google-chrome/Default/IndexedDB/https_neetcode.io_0.indexeddb.leveldb since it was missing.
+2025/01/04-17:42:32.875 177fe Reusing MANIFEST /home/ziad/.config/google-chrome/Default/IndexedDB/https_neetcode.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/04-17:42:32.884 1780c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/04-17:42:32.902 177fe Level-0 table #5: started
+2025/01/04-17:42:32.904 177fe Level-0 table #5: 1756 bytes OK
+2025/01/04-17:42:32.907 177fe Delete type=0 #3
+2025/01/04-17:42:32.908 177fe Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/04-17:42:32.986 1780c Level-0 table #7: started
+2025/01/04-17:42:32.989 1780c Level-0 table #7: 1815 bytes OK
+2025/01/04-17:42:32.992 1780c Delete type=0 #4
+2025/01/04-17:42:32.993 177ff Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/04-17:42:40.755 177ff Level-0 table #9: started
+2025/01/04-17:42:40.757 177ff Level-0 table #9: 11363 bytes OK
+2025/01/04-17:42:40.760 177ff Delete type=0 #6
+2025/01/04-17:42:40.761 177fd Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 450 : 1
+2025/01/04-17:42:40.761 177fd Compacting 1@0 + 1@1 files
+2025/01/04-17:42:40.762 177fd Generated table #10@0: 158 keys, 5691 bytes
+2025/01/04-17:42:40.762 177fd Compacted 1@0 + 1@1 files => 5691 bytes
+2025/01/04-17:42:40.765 177fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/04-17:42:40.765 177fd Delete type=2 #9
+2025/01/04-17:42:40.765 177fd Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 450 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/04-17:42:40.871 177fd Level-0 table #12: started
+2025/01/04-17:42:40.873 177fd Level-0 table #12: 680 bytes OK
+2025/01/04-17:42:40.876 177fd Delete type=2 #7
+2025/01/04-17:42:40.876 177fd Delete type=0 #8
+2025/01/04-17:42:40.876 177fd Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 483 : 1
+2025/01/04-17:42:40.876 177fd Compacting 1@0 + 1@1 files
+2025/01/04-17:42:40.877 177fd Generated table #13@0: 162 keys, 5871 bytes
+2025/01/04-17:42:40.878 177fd Compacted 1@0 + 1@1 files => 5871 bytes
+2025/01/04-17:42:40.880 177fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/04-17:42:40.880 177fd Delete type=2 #12
+2025/01/04-17:42:40.880 177fd Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 483 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/04-17:43:32.154 177fe Compacting 1@1 + 1@2 files
+2025/01/04-17:43:32.155 177fe compacted to: files[ 0 1 1 0 0 0 0 ]

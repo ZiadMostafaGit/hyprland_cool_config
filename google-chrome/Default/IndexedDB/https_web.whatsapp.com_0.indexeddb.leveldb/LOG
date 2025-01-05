@@ -1,0 +1,154 @@
+2025/01/05-13:30:14.895 fcc Reusing MANIFEST /home/ziad/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/05-13:30:14.895 fcc Recovering log #512
+2025/01/05-13:30:14.901 fcc Reusing old log /home/ziad/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000512.log 
+2025/01/05-13:30:25.986 fce Level-0 table #525: started
+2025/01/05-13:30:25.991 fce Level-0 table #525: 376980 bytes OK
+2025/01/05-13:30:25.994 fce Delete type=0 #512
+2025/01/05-13:30:25.994 fcc Manual compaction at level-0 from '\x00.\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/05-13:30:26.774 fcd Compacting 1@1 + 9@2 files
+2025/01/05-13:30:26.809 fcd Generated table #526@1: 82262 keys, 2256216 bytes
+2025/01/05-13:30:26.836 fcd Generated table #527@1: 23904 keys, 2320423 bytes
+2025/01/05-13:30:26.852 fcd Generated table #528@1: 12744 keys, 2173682 bytes
+2025/01/05-13:30:26.865 fcd Generated table #529@1: 2356 keys, 2160885 bytes
+2025/01/05-13:30:26.884 fcd Generated table #530@1: 14998 keys, 2203343 bytes
+2025/01/05-13:30:26.910 fcd Generated table #531@1: 31372 keys, 2242325 bytes
+2025/01/05-13:30:26.934 fcd Generated table #532@1: 18955 keys, 2237188 bytes
+2025/01/05-13:30:26.959 fcd Generated table #533@1: 80877 keys, 2224444 bytes
+2025/01/05-13:30:26.971 fcd Generated table #534@1: 40399 keys, 939037 bytes
+2025/01/05-13:30:26.971 fcd Compacted 1@1 + 9@2 files => 18757543 bytes
+2025/01/05-13:30:26.973 fcd compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/01/05-13:30:26.974 fcd Delete type=2 #514
+2025/01/05-13:30:26.974 fcd Delete type=2 #515
+2025/01/05-13:30:26.974 fcd Delete type=2 #516
+2025/01/05-13:30:26.974 fcd Delete type=2 #517
+2025/01/05-13:30:26.974 fcd Delete type=2 #518
+2025/01/05-13:30:26.974 fcd Delete type=2 #519
+2025/01/05-13:30:26.974 fcd Delete type=2 #520
+2025/01/05-13:30:26.974 fcd Delete type=2 #521
+2025/01/05-13:30:26.974 fcd Delete type=2 #522
+2025/01/05-13:30:26.974 fcd Delete type=2 #525
+2025/01/05-13:30:29.820 fce Level-0 table #536: started
+2025/01/05-13:30:29.836 fce Level-0 table #536: 1032513 bytes OK
+2025/01/05-13:30:29.839 fce Delete type=0 #524
+2025/01/05-13:30:29.922 fcd Compacting 1@1 + 9@2 files
+2025/01/05-13:30:29.953 fcd Generated table #537@1: 85096 keys, 2238261 bytes
+2025/01/05-13:30:29.974 fcd Generated table #538@1: 21555 keys, 2338739 bytes
+2025/01/05-13:30:29.990 fcd Generated table #539@1: 15095 keys, 2175026 bytes
+2025/01/05-13:30:30.001 fcd Generated table #540@1: 2318 keys, 2160919 bytes
+2025/01/05-13:30:30.018 fcd Generated table #541@1: 14234 keys, 2198535 bytes
+2025/01/05-13:30:30.044 fcd Generated table #542@1: 31393 keys, 2240357 bytes
+2025/01/05-13:30:30.072 fcd Generated table #543@1: 19359 keys, 2243773 bytes
+2025/01/05-13:30:30.100 fcd Generated table #544@1: 75475 keys, 2219262 bytes
+2025/01/05-13:30:30.117 fcd Generated table #545@1: 46472 keys, 1073888 bytes
+2025/01/05-13:30:30.117 fcd Compacted 1@1 + 9@2 files => 18888760 bytes
+2025/01/05-13:30:30.119 fcd compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/01/05-13:30:33.480 fcd Level-0 table #547: started
+2025/01/05-13:30:33.494 fcd Level-0 table #547: 1557031 bytes OK
+2025/01/05-13:30:33.497 fcd Delete type=2 #526
+2025/01/05-13:30:33.497 fcd Delete type=2 #527
+2025/01/05-13:30:33.497 fcd Delete type=2 #528
+2025/01/05-13:30:33.497 fcd Delete type=2 #529
+2025/01/05-13:30:33.497 fcd Delete type=2 #530
+2025/01/05-13:30:33.497 fcd Delete type=2 #531
+2025/01/05-13:30:33.497 fcd Delete type=2 #532
+2025/01/05-13:30:33.497 fcd Delete type=2 #533
+2025/01/05-13:30:33.497 fcd Delete type=2 #534
+2025/01/05-13:30:33.497 fcd Delete type=0 #535
+2025/01/05-13:30:33.497 fcd Delete type=2 #536
+2025/01/05-13:30:33.507 fcd Compacting 1@1 + 9@2 files
+2025/01/05-13:30:33.538 fcd Generated table #548@1: 85713 keys, 2234429 bytes
+2025/01/05-13:30:33.558 fcd Generated table #549@1: 20760 keys, 2341997 bytes
+2025/01/05-13:30:33.574 fcd Generated table #550@1: 16838 keys, 2176304 bytes
+2025/01/05-13:30:33.584 fcd Generated table #551@1: 2287 keys, 2172467 bytes
+2025/01/05-13:30:33.600 fcd Generated table #552@1: 13343 keys, 2192658 bytes
+2025/01/05-13:30:33.625 fcd Generated table #553@1: 30177 keys, 2241902 bytes
+2025/01/05-13:30:33.648 fcd Generated table #554@1: 20939 keys, 2250841 bytes
+2025/01/05-13:30:33.670 fcd Generated table #555@1: 63969 keys, 2204291 bytes
+2025/01/05-13:30:33.689 fcd Generated table #556@1: 65336 keys, 1503151 bytes
+2025/01/05-13:30:33.689 fcd Compacted 1@1 + 9@2 files => 19318040 bytes
+2025/01/05-13:30:33.691 fcd compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/01/05-13:30:33.691 fcd Delete type=2 #537
+2025/01/05-13:30:33.691 fcd Delete type=2 #538
+2025/01/05-13:30:33.691 fcd Delete type=2 #539
+2025/01/05-13:30:33.691 fcd Delete type=2 #540
+2025/01/05-13:30:33.691 fcd Delete type=2 #541
+2025/01/05-13:30:33.691 fcd Delete type=2 #542
+2025/01/05-13:30:33.691 fcd Delete type=2 #543
+2025/01/05-13:30:33.692 fcd Delete type=2 #544
+2025/01/05-13:30:33.692 fcd Delete type=2 #545
+2025/01/05-13:30:33.692 fcd Delete type=2 #547
+2025/01/05-13:43:49.845 fcd Level-0 table #558: started
+2025/01/05-13:43:49.869 fcd Level-0 table #558: 1134856 bytes OK
+2025/01/05-13:43:49.872 fcd Delete type=0 #546
+2025/01/05-13:43:56.715 fcd Compacting 1@1 + 9@2 files
+2025/01/05-13:43:56.777 fcd Generated table #559@1: 86827 keys, 2235874 bytes
+2025/01/05-13:43:56.818 fcd Generated table #560@1: 20372 keys, 2344725 bytes
+2025/01/05-13:43:56.846 fcd Generated table #561@1: 16766 keys, 2177423 bytes
+2025/01/05-13:43:56.863 fcd Generated table #562@1: 2284 keys, 2169858 bytes
+2025/01/05-13:43:56.892 fcd Generated table #563@1: 13250 keys, 2191813 bytes
+2025/01/05-13:43:56.943 fcd Generated table #564@1: 29996 keys, 2242193 bytes
+2025/01/05-13:43:56.987 fcd Generated table #565@1: 21171 keys, 2250759 bytes
+2025/01/05-13:43:57.040 fcd Generated table #566@1: 62844 keys, 2200780 bytes
+2025/01/05-13:43:57.079 fcd Generated table #567@1: 66875 keys, 1536519 bytes
+2025/01/05-13:43:57.079 fcd Compacted 1@1 + 9@2 files => 19349944 bytes
+2025/01/05-13:43:57.082 fcd compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/01/05-13:43:57.082 fcd Delete type=2 #548
+2025/01/05-13:43:57.082 fcd Delete type=2 #549
+2025/01/05-13:43:57.082 fcd Delete type=2 #550
+2025/01/05-13:43:57.082 fcd Delete type=2 #551
+2025/01/05-13:43:57.082 fcd Delete type=2 #552
+2025/01/05-13:43:57.082 fcd Delete type=2 #553
+2025/01/05-13:43:57.082 fcd Delete type=2 #554
+2025/01/05-13:43:57.082 fcd Delete type=2 #555
+2025/01/05-13:43:57.082 fcd Delete type=2 #556
+2025/01/05-13:43:57.082 fcd Delete type=2 #558
+2025/01/05-14:37:44.763 fce Level-0 table #569: started
+2025/01/05-14:37:44.784 fce Level-0 table #569: 1398518 bytes OK
+2025/01/05-14:37:44.787 fce Delete type=0 #557
+2025/01/05-14:39:20.869 fce Compacting 1@1 + 9@2 files
+2025/01/05-14:39:20.933 fce Generated table #570@1: 86982 keys, 2236707 bytes
+2025/01/05-14:39:20.973 fce Generated table #571@1: 21108 keys, 2357201 bytes
+2025/01/05-14:39:21.003 fce Generated table #572@1: 19500 keys, 2179983 bytes
+2025/01/05-14:39:21.020 fce Generated table #573@1: 2302 keys, 2162993 bytes
+2025/01/05-14:39:21.048 fce Generated table #574@1: 11798 keys, 2183272 bytes
+2025/01/05-14:39:21.098 fce Generated table #575@1: 30518 keys, 2247174 bytes
+2025/01/05-14:39:21.146 fce Generated table #576@1: 21332 keys, 2256482 bytes
+2025/01/05-14:39:21.187 fce Generated table #577@1: 56711 keys, 2194628 bytes
+2025/01/05-14:39:21.235 fce Generated table #578@1: 74297 keys, 1706509 bytes
+2025/01/05-14:39:21.235 fce Compacted 1@1 + 9@2 files => 19524949 bytes
+2025/01/05-14:39:21.238 fce compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/01/05-14:39:21.238 fce Delete type=2 #559
+2025/01/05-14:39:21.238 fce Delete type=2 #560
+2025/01/05-14:39:21.238 fce Delete type=2 #561
+2025/01/05-14:39:21.239 fce Delete type=2 #562
+2025/01/05-14:39:21.239 fce Delete type=2 #563
+2025/01/05-14:39:21.239 fce Delete type=2 #564
+2025/01/05-14:39:21.239 fce Delete type=2 #565
+2025/01/05-14:39:21.239 fce Delete type=2 #566
+2025/01/05-14:39:21.239 fce Delete type=2 #567
+2025/01/05-14:39:21.239 fce Delete type=2 #569
+2025/01/05-15:39:27.766 fcd Level-0 table #580: started
+2025/01/05-15:39:27.816 fcd Level-0 table #580: 1290845 bytes OK
+2025/01/05-15:39:27.820 fcd Delete type=0 #568
+2025/01/05-15:41:27.761 fcd Compacting 1@1 + 9@2 files
+2025/01/05-15:41:27.847 fcd Generated table #581@1: 87219 keys, 2237606 bytes
+2025/01/05-15:41:27.887 fcd Generated table #582@1: 23961 keys, 2361636 bytes
+2025/01/05-15:41:27.920 fcd Generated table #583@1: 20658 keys, 2180967 bytes
+2025/01/05-15:41:27.943 fcd Generated table #584@1: 2294 keys, 2162824 bytes
+2025/01/05-15:41:27.971 fcd Generated table #585@1: 10358 keys, 2176373 bytes
+2025/01/05-15:41:28.002 fcd Generated table #586@1: 31361 keys, 2250031 bytes
+2025/01/05-15:41:28.028 fcd Generated table #587@1: 21214 keys, 2262417 bytes
+2025/01/05-15:41:28.050 fcd Generated table #588@1: 51165 keys, 2186918 bytes
+2025/01/05-15:41:28.076 fcd Generated table #589@1: 80907 keys, 1854375 bytes
+2025/01/05-15:41:28.077 fcd Compacted 1@1 + 9@2 files => 19673147 bytes
+2025/01/05-15:41:28.079 fcd compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/01/05-15:41:28.079 fcd Delete type=2 #570
+2025/01/05-15:41:28.080 fcd Delete type=2 #571
+2025/01/05-15:41:28.080 fcd Delete type=2 #572
+2025/01/05-15:41:28.080 fcd Delete type=2 #573
+2025/01/05-15:41:28.080 fcd Delete type=2 #574
+2025/01/05-15:41:28.080 fcd Delete type=2 #575
+2025/01/05-15:41:28.080 fcd Delete type=2 #576
+2025/01/05-15:41:28.080 fcd Delete type=2 #577
+2025/01/05-15:41:28.080 fcd Delete type=2 #578
+2025/01/05-15:41:28.080 fcd Delete type=2 #580
